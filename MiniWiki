@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Eduardo Campos</title>
+  </head>
+  <body>
+    <header>
+      <h1>Eduardo Campos</h1>
+    </header>
+    <main>
+      <section>
+        <h2>Sobre mim</h2>
+        <p>Sou Eduardo, tenho 29 anos e moro atualmente em <a href="https://pt.wikipedia.org/wiki/Campo_Grande_(bairro_do_Rio_de_Janeiro)">Campo Grande</a>. </p>
+        <img src="https://i.pinimg.com/originals/39/b1/4a/39b14a0674362d2c0af63c116247694a.jpg" width=30% height=30%>
+      </section>
+      <section>
+        <h2>Coisas que amo</h2>
+        <ul>
+          <li>Tocar em roda de samba</li>
+          <li>Tocar em roda de choro</li>
+          <li>Tocar em casa</li>
+          <li>Chamego da minha preta</li>
+          <li>Café</li>
+          <li>Café e banana amassada com aveia e amendoim</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Habilidades que eu tenho</h2>
+        <ul>
+          <li>Enxergar as coisas através de diferentes perspectivas</li>
+          <li>Acreditar em algo mesmo que os fatos estejam aparentemente desfavoráveis</li>
+          <li>Motivar as pessoas ao meu redor</li>
+          <li>Fazer bolos gostosos</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Meus defeitos</h2>
+        <ol>
+          <li>Sou um pouco rígido e áspero comigo mesmo</li>
+          <li>Ansioso, sofro por antecipação</li>
+          <li>Provavelmente também por conta da ansiedade, tenho dificuldade de esperar o tempo das coisas</li>
+        </ol>
+      </section>
+      <section>
+        <h2>Coisas que ninguém aqui sabe sobre mim</h2>
+        <ol>
+          <li>Em agosto completei 10 anos sem comer carne</li>
+          <li>Já trabalhei com muitas coisas diferentes, inclusive como tarólogo</li>
+          <li>Meu sonho, quando criança, era ser um sábio imortal, e é possível que essa motivação esteja por trás de algumas escolhas que fiz na vida.</li>
+        </ol>
+      </section>
+    </main>
+    <footer>
+    </footer>
+  </body>
+</html>
