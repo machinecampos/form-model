@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+  </head>
+  <body>
+    <header>
+      <h1>Cadastro dos mais lindos</h1>
+    </header>
+    <main>
+      <form>
+        <label>Nome:</label>
+        <input type"text" name="Nome">
+        <br>
+        <br>
+        <label>Email:</label>
+        <input type="email" name="Email">
+        <br>
+        <br>
+        <label>Idade:</label>
+        <input type="number" name="Idade">
+        <br>
+        <br>
+        <legend>Tamanho da camisa:</legend>
+        <label>P
+          <input type="radio" name="Tamanho da camisa" value="P">
+        </label>
+        <label>M
+          <input type="radio" name="Tamanho da camisa" value="M">
+        </label>
+        <label>G
+          <input type="radio" name="Tamanho da camisa" value="G">
+        </label>
+        <label>GG
+          <input type="radio" name="Tamanho da camisa" value="G">
+        </label>
+        <br>
+        <br>
+        <legend>Dias para estudar:</legend>
+        <label>Domingo
+          <input type="checkbox" name="Dias para estudar" value="Domingo">
+        </label>
+        <label>Segunda-feira
+          <input type="checkbox" name="Dias para estudar" value="Segunda-feira">
+        </label>
+        <label>Terça-feira
+          <input type="checkbox" name="Dias para estudar" value="Terça-feira">
+        </label>
+        <label>Quarta-feira
+          <input type="checkbox" name="Dias para estudar" value="Quarta-feira">
+        </label>
+        <label>Quinta-feira
+          <input type="checkbox" name="Dias para estudar" value="Quinta-feira">
+        </label>
+        <label>Sexta-feira
+          <input type="checkbox" name="Dias para estudar" value="Sexta-feira">
+        </label>
+        <label>Sábado
+          <input type="checkbox" name="Dias para estudar" value="Sábado">
+        </label>
+        <br>
+        <br>
+        <input type="submit">
+      </form>
+    </main>
+    <footer>
+    </footer>
+  </body>
+</html>
